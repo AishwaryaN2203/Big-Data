@@ -1,5 +1,5 @@
 
-In this part, you will create a Spark Streaming application that will continuously read text data from a real time source, analyze the text for named entities, and send their counts to Apache Kafka. A pipeline using Elasticsearch and Kibana will read the data from Kafka and analyze it visually.
+This is a **Spark Streaming application** that will continuously read text data from a real time source, analyze the text for named entities, and send their counts to Apache Kafka. A pipeline using **Elasticsearch** and **Kibana** will read the data from Kafka and analyze it visually.
 
 # Initial Setup: 
 ### NEWSAPI
